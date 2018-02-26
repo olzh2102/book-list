@@ -1,0 +1,20 @@
+.success, .error {
+	color: white;
+	padding: 5px;
+	margin: 5px 0 15px 0;
+	border-radius: 3px;
+}
+
+.success {
+	background-color: #457241;
+
+}
+
+
+.error {
+	background-color: #57061e;
+}
+
+.submitBtn:hover {
+	background-color: #9a9a7a;
+}
